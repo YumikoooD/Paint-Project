@@ -26,3 +26,7 @@ All loads and saves other than by command line will be done
 with an image named “image” in the repository folder.
 
 Press 'escape' to quit the program!
+
+Need to install:
+
+CSFML
